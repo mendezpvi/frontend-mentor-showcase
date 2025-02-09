@@ -1,6 +1,42 @@
 # Frontend Mentor Challenge
 
 
+## *Product preview card component solution*
+
+| [Repository](https://github.com/mendezpvi/fem-product-preview-card) | [Live site](https://mendezpvi.github.io/fem-product-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-92CltPyzq-) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-product-preview-card/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
+## *QR code component solution*
+
+| [Repository](https://github.com/mendezpvi/fem-qr-code-component) | [Live site](https://mendezpvi.github.io/fem-qr-code-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-rpCIs7DtWB) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-qr-code-component/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
+## *NFT preview card component solution*
+
+| [Repository](https://github.com/mendezpvi/fem-nft-preview-card-component) | [Live site](https://mendezpvi.github.io/fem-nft-preview-card-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-nesting-9Vmj28MQQs) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-nft-preview-card-component/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
+## *Stats preview card component solution*
+
+| [Repository](https://github.com/mendezpvi/fem-stats-preview-card-component) | [Live site](https://mendezpvi.github.io/fem-stats-preview-card-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-Ns2qorEUbl) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-stats-preview-card-component/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
 ## *3-column preview card component solution*
 
 | [Repository](https://github.com/mendezpvi/fem-3-column-card) | [Live site](https://mendezpvi.github.io/fem-3-column-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-grid-XBa8_s__cD) |
