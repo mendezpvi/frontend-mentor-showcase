@@ -1,6 +1,15 @@
 # Frontend Mentor Challenge
 
 
+## *Order summary card solution*
+
+| [Repository](https://github.com/mendezpvi/fem-order-summary-component) | [Live site](https://mendezpvi.github.io/fem-order-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-IxAm5jF149) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-order-summary-component/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
 ## *Product preview card component solution*
 
 | [Repository](https://github.com/mendezpvi/fem-product-preview-card) | [Live site](https://mendezpvi.github.io/fem-product-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-92CltPyzq-) |
