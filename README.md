@@ -1,6 +1,15 @@
 # Frontend Mentor Challenge
 
 
+## *Results summary component*
+
+| [Repository](https://github.com/mendezpvi/fem-results-summary-component) | [Live site](https://mendezpvi.github.io/fem-results-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-MuAbYHarLa) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-results-summary-component/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
 ## *Order summary card solution*
 
 | [Repository](https://github.com/mendezpvi/fem-order-summary-component) | [Live site](https://mendezpvi.github.io/fem-order-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-IxAm5jF149) |
