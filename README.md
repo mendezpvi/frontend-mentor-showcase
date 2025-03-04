@@ -1,6 +1,15 @@
 # Frontend Mentor Challenge
 
 
+## *Blog preview card*
+
+| [Repository](https://github.com/mendezpvi/fem-blog-preview-card) | [Live site](https://mendezpvi.github.io/fem-blog-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-mm5a4ckuVq) |
+| --- | --- | --- |
+
+![](https://raw.githubusercontent.com/mendezpvi/fem-blog-preview-card/refs/heads/main/assets/screenshots/sample.gif)
+
+---
+
 ## *Results summary component*
 
 | [Repository](https://github.com/mendezpvi/fem-results-summary-component) | [Live site](https://mendezpvi.github.io/fem-results-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-MuAbYHarLa) |
